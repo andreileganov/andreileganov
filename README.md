@@ -9,6 +9,7 @@ I build consumer apps end-to-end: architecture → implementation → App Store 
 - [Doers United](https://apps.apple.com/cy/app/doers-united/id6747444014) — professional networking app with AI matchmaking, events and real-time chat, built from scratch as the sole iOS engineer
 - [Anymaster](https://apps.apple.com/cy/app/anymaster-services-near-you/id6444522591) — local services marketplace, built from scratch as the sole iOS engineer
 - [Webasyst Cash Flow & Forecast](https://apps.apple.com/cy/app/webasyst-cash-flow-forecast/id6450029747) — cash-flow tracking and forecasting for small businesses
+- [Jarvify](https://apps.apple.com/cy/app/jarvify/id6785853730) — AI agent platform: the operator app where a team watches its AI agent talk to customers and takes the conversation over when a human is needed
 - [Blink](https://apps.apple.com/cy/app/blink-friends-location/id1668580784) — friends map and messenger; later relaunch of a product whose core I wrote with another iOS engineer
 
 **Building with agents**

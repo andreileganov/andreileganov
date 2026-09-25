@@ -9,6 +9,7 @@
 - [Doers United](https://apps.apple.com/cy/app/doers-united/id6747444014) — приложение для профессионального нетворкинга: подбор знакомств на ИИ, события, чат в реальном времени. Сделано с нуля, единственным iOS-разработчиком
 - [Anymaster](https://apps.apple.com/cy/app/anymaster-services-near-you/id6444522591) — маркетплейс бытовых услуг. Сделан с нуля, единственным iOS-разработчиком
 - [Webasyst Cash Flow & Forecast](https://apps.apple.com/cy/app/webasyst-cash-flow-forecast/id6450029747) — учёт и прогноз денежного потока для малого бизнеса
+- [Jarvify](https://apps.apple.com/cy/app/jarvify/id6785853730) — платформа ИИ-агентов: операторское приложение, в котором команда видит переписку агента с клиентами и в любой момент перехватывает диалог
 - [Blink](https://apps.apple.com/cy/app/blink-friends-location/id1668580784) — карта друзей и мессенджер; перезапуск продукта, ядро которого я написал вместе с другим iOS-разработчиком
 
 **Работа с агентами**
